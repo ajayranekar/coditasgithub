@@ -1,0 +1,9 @@
+# Xcode
+#
+# gitignore
+
+.DS_Store
+
+Pods/
+
+Podfile.lock
