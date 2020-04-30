@@ -6,5 +6,9 @@ target 'CoditasGitHub' do
   use_frameworks!
 
   # Pods for CoditasGitHub
+  
+  pod 'Alamofire', '5.0.2'
+  pod 'Kingfisher', '5.13.3'
+  pod 'IQKeyboardManagerSwift', '6.5.5'
 
 end
